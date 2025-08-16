@@ -80,7 +80,7 @@ import json
 url = "https://vip.apiyi.com/v1/chat/completions"
 headers = {
     "Content-Type": "application/json",
-    "Authorization": f"Bearer sk-s6lPKTnOSkLA7LkmE2F5559c162048EfBdEbC26aF98102A7"
+    "Authorization": f"XXX"
 }
 data = {
     "model": "gpt-4o-mini",
